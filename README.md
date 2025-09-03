@@ -1,0 +1,1 @@
+# Penulisan-Ilmiah-Analisis-Sentimen-Menggunakan-Metode-Multinomial-Naive-Bayes
